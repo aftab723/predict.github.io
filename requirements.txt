@@ -1,4 +1,5 @@
 streamlit
-prophet
+prophet==1.1
+numpy==1.23.5
 yfinance
 plotly
